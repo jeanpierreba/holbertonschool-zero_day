@@ -1,1 +1,1 @@
-		This project is about emacss 
+this project is about basic commands in emacs
