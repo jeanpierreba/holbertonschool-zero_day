@@ -1,1 +1,1 @@
-This project is about Git, Github and differents branchs 
+This project is about Git, Github interface and differents branchs 
